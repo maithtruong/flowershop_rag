@@ -1,0 +1,12 @@
+python-dotenv
+requests
+pandas
+scrapy
+streamlit
+pymongo
+sentence-transformers
+langchain
+langchain-openai
+flask
+flask-cors
+pyngrok
