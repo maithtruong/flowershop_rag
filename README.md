@@ -33,7 +33,14 @@ You’ll need a few external services before running the app.
 
 ### 🐍 Python Environment
 
-Create and activate a virtual environment:
+Use the repo's virtual environment:
+```bash
+source venv/bin/activate   # macOS / Linux
+# venv\Scripts\activate    # Windows
+```
+
+or
+Create and activate a new virtual environment:
 
 ```bash
 python3 -m venv venv
